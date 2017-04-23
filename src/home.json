@@ -1,0 +1,15 @@
+{
+  "title": "Wohnzimmer",
+  "text": [
+    "Es war genau dieser eisig kalte Novemberregen, den ich so sehr hasste. Dieser Regen der die besondere Eigenschaft hatte einen Weg durch alle noch so gut vorbereitete Kleidung zu finden, in Ritzen zu kriechen und für ein spürbares Unwohlsein zu sorgen. Dieser Regen prasselte nun an mein Wohnzimmerfenster. So unnachgiebig und stetig dass wohl kaum Hoffnung bestand, es würde sich an dem Wetter an diesem Tag noch etwas ändern.",
+    "Noch hatte ich an diesem Morgen einige Minuten Zeit, doch wenn ich einigermaßen pünktlich sein wollte musste ich mich in der nächsten Stunde auf den Weg machen. Es sollte das zweite Vorstellungsgespäch dieses Tages sein. "
+  ],
+  "options": [
+    {
+      "keyword": "spiegel",
+      "description": "Schau in den *Spiegel* im Eingang",
+      "type": "display_text",
+      "data": "Dies ist noch ein Absatz"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[package]
+name = "dfa"
+version = "0.1.0"
+authors = ["sven"]
+
+[dependencies]
+json = "0.11.6"
+textwrap = "0.4"
+
